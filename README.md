@@ -1,8 +1,8 @@
-# Naver Blog Sentiment Corpus
+# Naver Blog Sentiment Corpus 3 Class
 
 This is sentiment dataset in Korean Language.
-
 The source of dataset is naver blog.
+have 3 class (positive, negative, neutral)
 
 ## Description
 
