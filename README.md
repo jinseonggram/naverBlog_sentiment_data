@@ -43,3 +43,7 @@ $ head sentiment.csv
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
 </p>
+
+______
+
+made by @redJunBro , @jinseonggram
